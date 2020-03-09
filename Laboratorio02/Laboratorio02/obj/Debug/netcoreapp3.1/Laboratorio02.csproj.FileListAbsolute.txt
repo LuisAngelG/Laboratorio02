@@ -1,0 +1,11 @@
+C:\Users\Alumno\Desktop\Laboratorio02\Laboratorio02\bin\Debug\netcoreapp3.1\Laboratorio02.exe
+C:\Users\Alumno\Desktop\Laboratorio02\Laboratorio02\bin\Debug\netcoreapp3.1\Laboratorio02.deps.json
+C:\Users\Alumno\Desktop\Laboratorio02\Laboratorio02\bin\Debug\netcoreapp3.1\Laboratorio02.runtimeconfig.json
+C:\Users\Alumno\Desktop\Laboratorio02\Laboratorio02\bin\Debug\netcoreapp3.1\Laboratorio02.runtimeconfig.dev.json
+C:\Users\Alumno\Desktop\Laboratorio02\Laboratorio02\bin\Debug\netcoreapp3.1\Laboratorio02.dll
+C:\Users\Alumno\Desktop\Laboratorio02\Laboratorio02\bin\Debug\netcoreapp3.1\Laboratorio02.pdb
+C:\Users\Alumno\Desktop\Laboratorio02\Laboratorio02\obj\Debug\netcoreapp3.1\Laboratorio02.csprojAssemblyReference.cache
+C:\Users\Alumno\Desktop\Laboratorio02\Laboratorio02\obj\Debug\netcoreapp3.1\Laboratorio02.AssemblyInfoInputs.cache
+C:\Users\Alumno\Desktop\Laboratorio02\Laboratorio02\obj\Debug\netcoreapp3.1\Laboratorio02.AssemblyInfo.cs
+C:\Users\Alumno\Desktop\Laboratorio02\Laboratorio02\obj\Debug\netcoreapp3.1\Laboratorio02.dll
+C:\Users\Alumno\Desktop\Laboratorio02\Laboratorio02\obj\Debug\netcoreapp3.1\Laboratorio02.pdb
